@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sspsec/sspsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -67,3 +65,9 @@ Here are some ideas to get you started:
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,kali,vim,bash,powershell,md,anaconda,apple,clion,idea,pycahrm,goland,phpstorm,linux,windows,mysql,ps,pr" />
+  </a>
+</p>
