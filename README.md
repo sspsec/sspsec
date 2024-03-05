@@ -68,6 +68,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,kali,vim,bash,powershell,md,anaconda,clion,idea,pycahrm,phpstorm,linux,windows,apple,mysql,ps,pr" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,js,html,css,kali,vim,bash,powershell,md,anaconda,clion,idea,pycharm,phpstorm,linux,windows,apple,mysql,ps,pr" />
   </a>
 </p>
