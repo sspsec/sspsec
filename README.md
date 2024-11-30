@@ -1,42 +1,47 @@
-<!--
-**sspsec/sspsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# About Me
 
-<div align="center">
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=sspsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-  
-  <!-- Trophy -->
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=sspsec&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-  </div>
+- 👋 Hi, My ID is [sspsec](https://twitter.com/sspsec), 你可以叫我XX
+- 👀 I'm good at 网络安全、渗透测试、云安全
+- 🌱 I'm currently learning AI安全、区块链安全
+- 📫 日常活跃于各大平台, 推特ID [@sspsec](https://twitter.com/sspsec)
+- 💞️ 感谢Github开源社区，感谢所有开源贡献者
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
-  <!-- GitHub 数据统计 -->
-  <div>
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sspsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sspsec&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  </div>
+# About MyWork
 
-  <!-- ########################################## 分割 ########################################## -->
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img align='right' src="https://www.cernet.edu.cn/images/logo.png" width="300">
 
-  <!-- 技能图标 -->
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,js,html,css,kali,vim,bash,powershell,md,anaconda,clion,idea,pycharm,phpstorm,linux,windows,apple,mysql,ps,pr" />
-    </a>
-  </p>
+现在我在中国教育和科研计算机网（CERNET）从事网络安全相关的工作，致力于提升网络安全保障能力。
 
-</div>
+CERNET官网：[https://www.cernet.edu.cn](https://www.cernet.edu.cn)
+
+# About MyTeam
+
+<img align='right' src="./TeamLogo-New.jpg" width="350">
+
+我是SSP安全团队的负责人，团队英文名：SSPSec
+
+- 团队官网：[https://www.sspsec.cn](https://www.sspsec.cn)
+- 团队导航：[https://dh.sspsec.cn](https://dh.sspsec.cn)
+- 团队博客：[https://blog.sspsec.cn](https://blog.sspsec.cn)
+- 团队开源地址：[https://github.com/SSP-Sec](https://github.com/SSP-Sec)
+- 💞️ 团队公众号“SSP安全团队”，欢迎各位进行合作
+- 📫 我的QQ：[点击这里](https://wpa.qq.com/msgrd?v=3&uin=22832713&site=qq&menu=yes)，如有需要可以联系我
+- 👋 MyTeam E-Mail: root@sspsec.cn
+
+# My Future
+
+<table>
+  <tr>
+    <td>🥰恭喜您成为第</td>
+    <td><img src="https://profile-counter.glitch.me/sspsec/count.svg" alt="" /></td>
+    <td>位访客，感谢您的关注和支持~😍</td>
+  </tr>
+</table>
+
+- 👀 我将继续努力学习新的安全技术，提升团队能力
+- 🌱 维护团队项目，分享更多网络安全相关的知识与工具
+- 👋 欢迎与我交流渗透测试的经验与技巧，期待合作~
