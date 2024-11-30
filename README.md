@@ -2,19 +2,20 @@
 
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=sspsec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
 
-- 👋 Hi, My ID is [sspsec](https://twitter.com/sspsec)
+- 👋 Hi, My ID is [sspsec]
 - 👀 I'm good at 网络安全、渗透测试、安全运营
+- 📫 日常活跃于各大平台, 推特ID @sspsec6666
 - 💞️ 感谢Github开源社区，感谢所有开源贡献者
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
 # About MyWork
 
-<img align='right' src="[https://www.cernet.edu.cn/images/logo.png](https://www.cernet.com/)" width="300">
+<img align='right' src="https://www.cernet.edu.cn/images/logo.png" width="300">
 
 现在我在CERNET从事网络安全相关的工作，致力于提升网络安全保障能力。
 
-CERNET官网：[[https://www.cernet.edu.cn](https://www.cernet.edu.cn)](https://www.cernet.com/)
+CERNET官网：https://www.cernet.com
 
 # About MyTeam
 
