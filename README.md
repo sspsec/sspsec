@@ -13,11 +13,7 @@
 
 # About MyWork
 
-<img align='right' src="https://www.cernet.com/static/cernet/img/logo.png" width="300">
-
 现在我在CERNET从事网络安全相关的工作，致力于提升网络安全保障能力。
-
-CERNET官网：https://www.cernet.com
 
 # About MyTeam
 
