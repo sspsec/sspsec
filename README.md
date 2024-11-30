@@ -9,7 +9,7 @@
 - 💞️ 感谢Github开源社区，感谢所有开源贡献者
 - 📓 天行健，君子以自强不息
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,js,html,css,kali,vim,bash,powershell,md,anaconda,clion,idea,pycharm,phpstorm,linux,windows,apple,mysql,ps,pr)](https://skillicons.dev)
 
 # About MyWork
 
