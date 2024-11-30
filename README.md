@@ -7,6 +7,7 @@
 - 📫 日常活跃于各大平台, 推特ID @sspsec6666
 - 💞️ 感谢Github开源社区，感谢所有开源贡献者
 
+
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,twitter)](https://skillicons.dev)
 
 # About MyWork
@@ -20,7 +21,6 @@ CERNET官网：https://www.cernet.com
 # About MyTeam
 
 <img align='right' src="./icon-ssp.png" width="350">
-<img align='right' src="./ssp.png" width="350">
 
 我是SSP安全团队的负责人，团队英文名：SSPSec
 - 💞️ 团队公众号“SSP安全研究”，欢迎各位进行合作
