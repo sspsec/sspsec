@@ -4,7 +4,7 @@
 
 - 👋 Hi, My ID is **sspsec**
 - 👀 I'm good at 网络安全、渗透测试、安全运营
-- 📫 日常活跃于各大平台, 推特ID @sspsec6666
+- 📫 日常活跃于各大平台, 推特ID **@sspsec6666**
 - 🎮 **JetBrains OSS Developer**
 - 💞️ 感谢Github开源社区，感谢所有开源贡献者
 -  天行健，君子以自强不息
