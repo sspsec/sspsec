@@ -1,4 +1,4 @@
-# About Me
+# Me
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=sspsec&hide=contribs,prs" width="450">
 
@@ -11,19 +11,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,docker,c,cpp,go,py,php,java,js,html,css,kali,vim,bash,powershell,md,anaconda,clion,idea,pycharm,phpstorm,linux,windows,apple,mysql,ps,pr)](https://skillicons.dev)
 
-# About MyWork
+# MyWork
 
 现在我在CERNET从事网络安全相关的工作，致力于提升网络安全保障能力。
 
-# About MyTeam
+# MyTeam
 
 <img align='right' src="./ssp.png" width="350">
 
 我是SSP安全团队的负责人，团队英文名：SSPSec
 - 💞️ 团队公众号“SSP安全研究”，欢迎各位进行合作
 - 📫 我的QQ：MjQyOTcxMzc4OA==，如有需要可以联系我
-
-# My Future
 
 <table>
   <tr>
@@ -32,7 +30,3 @@
     <td>位访客，感谢您的关注和支持~😍</td>
   </tr>
 </table>
-
-- 👀 我将继续努力学习新的安全技术，提升团队能力
-- 🌱 维护团队项目，分享更多网络安全相关的知识与工具
-- 👋 欢迎与我交流渗透测试的经验与技巧，期待合作~
