@@ -11,14 +11,16 @@
 
 ### Hi!👋 I'm JOJO
 
-<p><b>A young man<b></p> 
-<p><b>           A young man<b></p> 
-<p><b>                      A young man<b></p> 
+<p><b>A&nbspyoung&nbspman~<b></p>&nbsp
+<p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA&nbspyoung&nbspman~~<b></p>&nbsp
+<p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA&nbspyoung&nbspman~~~<b></p>&nbsp
 
 ## **☕ About me**
 <a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-<p>I'm a pentester, and my hobbies include playing games, watching anime, reading manga,<br> listening to music, and sometimes tinkering with random stuff like coding.</p>
-<br><br>
+<p>🎮 Third-rate Warrior of Cybersecurity</p>
+<p>📜 Watchlist > Reading List</p>
+<p>💻 Left Screen: BurpSuite | Right Screen: Bangumi</p>
+<p>📺 Anime Backlog > Vulnerability Backlog</p>
 
 ## **💻 Experience**
 <a href="https://github.com/sspsec"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
