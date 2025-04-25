@@ -9,7 +9,7 @@
 <img align="right" width="200" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
 
 
-### Hi!👋 I'm JOJO
+### Hi!👋 I'm Spe4r
 
 <p><b>A&nbspyoung&nbspman~<b></p>&nbsp
 <p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA&nbspyoung&nbspman~~<b></p>&nbsp
@@ -18,9 +18,9 @@
 ## **☕ About me**
 <a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
 <p>🎮 Third-rate Warrior of Cybersecurity</p>
-<p>📜 Watchlist > Reading List</p>
+<p>📜 Watchlist > Reading List | 📺 Anime Backlog > Vulnerability Backlog</p>
 <p>💻 Left Screen: BurpSuite | Right Screen: Bangumi</p>
-<p>📺 Anime Backlog > Vulnerability Backlog</p>
+
 
 ## **💻 Experience**
 <a href="https://github.com/sspsec"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
