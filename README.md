@@ -6,7 +6,7 @@
 
 ![Preview](./images/wallhaven-yxzkvk.png)
 
-<img align="right" width="200" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
+<img align="right" width="300" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
 
 
 ### Hi!👋 I'm Spe4r
