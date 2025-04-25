@@ -15,7 +15,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm a pentester, and my hobbies include playing games, watching anime, reading manga, listening to music, and sometimes tinkering with random stuff like coding.
+<p>I'm a pentester, and my hobbies include playing games, watching anime, reading manga, listening to music, and sometimes tinkering with random stuff like coding.</p>
 <br><br>
 
 ## **💻 Experience**
