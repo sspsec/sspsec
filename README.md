@@ -6,14 +6,14 @@
 
 ![Preview](./backgroud.jpeg)
 
-<img align="right" width="160" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
+<img align="right" width="200" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
 
 
 ### Hi!👋 I'm JOJO
 
 <p><b>A young man<b></p> 
-<p><b>A young man<b></p> 
-<p><b>A young man<b></p> 
+<p><b>           A young man<b></p> 
+<p><b>                      A young man<b></p> 
 
 ## **☕ About me**
 <a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
