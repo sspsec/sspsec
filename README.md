@@ -4,7 +4,7 @@
 
 </div>
 
-![Preview](./backgroud.jpeg)
+![Preview](./images/wallhaven-yxzkvk.png)
 
 <img align="right" width="200" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
 
@@ -17,12 +17,12 @@
 
 ## **☕ About me**
 <a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-<p>I'm a pentester, and my hobbies include playing games, watching anime, reading manga, listening to music, and sometimes tinkering with random stuff like coding.</p>
+<p>I'm a pentester, and my hobbies include playing games, watching anime, reading manga,<br> listening to music, and sometimes tinkering with random stuff like coding.</p>
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/sspsec"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I am currently doing SOC related work. Five years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I am currently doing SOC related work. Five years of College have passed, and I am still learning. <br>I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **📊 Github Stats**
