@@ -6,7 +6,7 @@
 
 ![Preview](./backgroud.jpeg)
 
-<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
+<img align="right" width="160" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
 
 
 ### Hi!👋 I'm JOJO
