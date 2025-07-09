@@ -57,7 +57,7 @@ Hehe~ another cutie has been caught.
 **You can also email me here:** sspsec666@gmail.com
 
 [![](https://img.shields.io/github/followers/sspsec?label=Followers&style=social)](https://github.com/sspsec)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sspsec6666)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sspsec)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:sspsec666@gmail.com)
 <!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/TG_tomomom) -->
 <!-- [![sspsec](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
