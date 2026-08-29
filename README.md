@@ -27,15 +27,6 @@
 I am currently doing SOC related work. Five years of College have passed, and I am still learning. <br>I don't have anything special, but I hope to be able to change that in the future.
 
 
-## **📊 Github Stats**
-<!-- <div><a href="https://github.com/sspsec"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sspsec&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sspsec&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
-
-<!-- ## **🎧 Spotify**
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
 
 ## **🧋Cutie Counter**
 <!-- <p align="center">
