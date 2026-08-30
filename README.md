@@ -30,7 +30,7 @@ Security operations professional focused on SOC monitoring and response, with ha
 
 ## Contact
 
-- Telegram: [@TG_tomomom](https://t.me/TG_tomomom)
+- Telegram: [@ask_how_come](https://t.me/ask_how_come)
 - Email: [sspsec666@gmail.com](mailto:sspsec666@gmail.com)
 
 > 所有安全测试工具仅用于已获授权的环境。
