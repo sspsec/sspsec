@@ -1,54 +1,34 @@
 <div align="center">
-<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&bg=none&frame=none&speed=100&comment=) -->
-<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=) -->
+
+# Spe4r / sspsec
+
+Security researcher focused on Spring security, red-team tooling and Go development.
+
+![Profile preview](./images/wallhaven-yxzkvk.png)
 
 </div>
 
-![Preview](./images/wallhaven-yxzkvk.png)
+## Focus
 
-<img align="right" width="300" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif"></a>
+- Spring Framework vulnerability research and defensive validation
+- Go-based security tools, scanners and automation
+- CTF cryptography and practical security engineering
+- SOC operations and continuous learning
 
+## Featured projects
 
-### Hi!👋 I'm Spe4r
+- [Scan-Spring-GO](https://github.com/sspsec/Scan-Spring-GO) — Spring 全家桶漏洞扫描与 MCP 服务端
+- [Spear](https://github.com/sspsec/Spear) — 安全工具管理器
+- [RedCmd](https://github.com/sspsec/RedCmd) — 常用渗透测试命令生成器
+- [CTF-RSA-Script](https://github.com/sspsec/CTF-RSA-Script) — RSA CTF 攻击与出题脚本
 
-<p><b>A&nbspyoung&nbspman~<b></p>&nbsp
-<p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA&nbspyoung&nbspman~~<b></p>&nbsp
-<p><b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspA&nbspyoung&nbspman~~~<b></p>&nbsp
+## Tech
 
-## **☕ About me**
-<a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-<p>🎮 Third-rate Warrior of Cybersecurity</p>
-<p>📜 Watchlist > Reading List | 📺 Anime Backlog > Vulnerability Backlog</p>
-<p>💻 Left Screen: BurpSuite | Right Screen: Bangumi</p>
+`Go` · `Python` · `Java` · `Vue` · `Spring` · `Burp Suite` · `Docker`
 
+## Contact
 
-## **💻 Experience**
-<a href="https://github.com/sspsec"><img align="right" width="100" src="./images/mahiro_cry.png"></a>
-I am currently doing SOC related work. Five years of College have passed, and I am still learning. <br>I don't have anything special, but I hope to be able to change that in the future.
+- Telegram: [@TG_tomomom](https://t.me/TG_tomomom)
+- Email: [sspsec666@gmail.com](mailto:sspsec666@gmail.com)
 
-
-
-## **🧋Cutie Counter**
-<!-- <p align="center">
-    <img src="https://moe-counter.glitch.me/get/@sspsec?theme=moebooru-h"> <br/>
-</p> -->
-<img align="right" width=400 src="https://count.getloli.com/@sspsec?name=sspsec&theme=rule34&padding=10&offset=0&scale=1&pixelated=1&darkmode=0"></a>
-<a href="https://github.com/sspsec"><img align="left" width="100" src="./images/mahiro.png"></a>
-
-```yaml
-People who visit my profile :3.
-
-Hehe~ another cutie has been caught.
-```
-<!-- <br><br><br><br> -->
-## **📫 Contact**
-<a href="https://github.com/sspsec"><img align="right" width="100" src="./images/mahiro_box.png" /></a>
-**Please Contact me on Discord for a quick response:** [TG_tomomom](https://t.me/TG_tomomom)
-
-**You can also email me here:** sspsec666@gmail.com
-
-[![](https://img.shields.io/github/followers/sspsec?label=Followers&style=social)](https://github.com/sspsec)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/sspsec)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:sspsec666@gmail.com)
-<!-- [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/TG_tomomom) -->
-<!-- [![sspsec](https://mizu.is-a.dev/public/miyagawamizu.png)](https://mizu.is-a.dev/) -->
+> 所有安全测试工具仅用于已获授权的环境。
