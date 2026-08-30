@@ -2,9 +2,9 @@
 
 # Spe4r / sspsec
 
-Security operations professional focused on SOC monitoring and response, with hands-on experience in authorized penetration testing, Spring Security research and Go tooling.
+Security operations professional focused on SOC monitoring and response, with hands-on experience in authorized penetration testing and Go tooling.
 
-中文：安全运营从业者，主要从事 SOC 监测与响应，同时进行授权渗透测试、Spring Security 研究和 Go 安全工具开发。
+中文：安全运营从业者，主要从事 SOC 监测与响应，同时进行授权渗透测试和 Go 安全工具开发。
 
 ![Profile preview](./images/wallhaven-yxzkvk.png)
 
@@ -14,7 +14,7 @@ Security operations professional focused on SOC monitoring and response, with ha
 
 - Security operations, monitoring and incident response
 - Authorized penetration testing and vulnerability validation
-- Spring Security research and Go-based security tooling
+- Go-based security tooling and automation
 - CTF cryptography and practical security engineering
 
 ## Featured projects
